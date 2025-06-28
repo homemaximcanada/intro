@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Home Maxim Canada | Coming Soon</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(to bottom, #f9f9f9, #e0e0e0);
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 3em;
+      color: #553c9a;
+      margin-bottom: 0.2em;
+    }
+
+    h2 {
+      font-weight: normal;
+      color: #777;
+      margin-bottom: 1.5em;
+    }
+
+    p {
+      max-width: 600px;
+      line-height: 1.6;
+      font-size: 1.1em;
+      margin-bottom: 2em;
+    }
+
+    .coming-soon {
+      font-size: 1.2em;
+      color: #553c9a;
+      font-weight: bold;
+      background: #fff;
+      padding: 10px 20px;
+      border: 2px solid #553c9a;
+      border-radius: 8px;
+      display: inline-block;
+    }
+
+    footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Welcome to Home Maxim</h1>
+  <h2>Custom Window Treatments You Can Trust</h2>
+
+  <p>
+    For over 15 years, Home Maxim has been a trusted name in custom curtains and blinds across the Greater Toronto Area.
+    We specialize in zebra shades, roller blinds, dream blinds, and a variety of modern window coverings tailored to your style and comfort.
+  </p>
+
+  <div class="coming-soon">Our website is coming soon. Stay tuned!</div>
+
+  <footer>
+    Located in Splendid China Mall, 4675 Steeles Ave E, Unit 2A21, Scarborough <br />
+    Call/Text: 647-975-3368 | Email: mcmotoring@gmail.com
+  </footer>
+
+</body>
+</html>
